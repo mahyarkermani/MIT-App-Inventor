@@ -1,0 +1,3 @@
+App backup file on MIT APP INVENTOR website.
+You can import and use this file in your projects section and on the MIT website.
+Don't forget to set the screen size to tablet mode (675, 480) to use the aia file.

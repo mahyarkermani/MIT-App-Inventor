@@ -1,0 +1,1 @@
+This is my first practice and app of MIT APP INVENTOR. This small project consists of a simple calculator program (with four main operations). I put the source code, aia backup file, images and the APK file in this folder). This is a good start and I did not design much yet

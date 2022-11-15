@@ -1,0 +1,2 @@
+Source code (in Java language) calculator app.
+Don't forget to set the screen size to tablet mode (675, 480) to use the source code.
