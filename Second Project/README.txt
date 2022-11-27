@@ -1,0 +1,1 @@
+The software has two pages. The first page is a 10-second timer and it leads you to the second page. Then by shaking the phone, the dice between 1 and 6 will be displayed randomly each time.
